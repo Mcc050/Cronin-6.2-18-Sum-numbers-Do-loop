@@ -1,0 +1,20 @@
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.exe.config
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.exe
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.pdb
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.xml
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin_6._2_18_Sum_numbers_Do_loop.frmSum.resources
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin_6._2_18_Sum_numbers_Do_loop.Resources.resources
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.vbproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.exe
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.xml
+C:\Users\Michael\Desktop\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.exe.config
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\bin\Debug\Cronin 6.2-18 Sum numbers Do loop.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin_6._2_18_Sum_numbers_Do_loop.frmSum.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin_6._2_18_Sum_numbers_Do_loop.Resources.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 6.2-18 Sum numbers Do loop\Cronin 6.2-18 Sum numbers Do loop\obj\Debug\Cronin 6.2-18 Sum numbers Do loop.vbproj.GenerateResource.Cache
